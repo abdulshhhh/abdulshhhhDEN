@@ -11,21 +11,19 @@
 
 ---
 
-## 💡 **Top Projects**  
+## 💡 **Highlighted Projects**
 
 - 🧑‍🌾 **Uzhavan Connect**  
-  > **Empowering farmers** through a voice-to-text platform, **AI crop insights**, and **geofencing-based attendance**  
-  > 🥇 *Winner @ Gen Brainiacs'25* — Revolutionizing AgriTech
+  > Revolutionized AgriTech with **Voice-to-Text**, **AI Crop Predictions**, and **Geofencing-based Attendance**. Integrated **Real-Time Data Sync** via Firebase.  
+  > 🥇 *Winner @ Gen Brainiacs'25* — Leveraged **NLP**, **AI**, and **Geospatial Analytics** for **data-driven decision-making**.
 
 - 🧑‍🏫 **Smart Attendance System**  
-  > **Geofencing + Face Recognition + Real-Time Sync**  
-  > Ensures **accurate attendance** with **geofencing**, **AI face recognition**, and real-time updates. Integrated with **Firebase** and **AWS** for **scalability**.  
-  > 🥈 *Runner-up @ Innothon’24* — Powered by cutting-edge tech!
+  > Developed a **multi-factor authentication** solution using **Geofencing**, **AI Face Recognition**, and **Real-Time Sync** with **AWS Lambda** and **Firebase**.  
+  > 🥈 *Runner-up @ Innothon’24* — **Serverless Architecture** with **Computer Vision** for **scalable, real-time attendance validation**.
 
-- ☁️ **AWS Hosting Infra Solution**  
-  > Built **scalable and secure** cloud architecture with **EC2**, **S3**, **Route 53**, and **RDS**  
-  > Developed **CI/CD pipelines** and **auto-scaling** strategies for robust deployment.  
-  > 🏅 *Top Team @ Hack A Cloud’25* — Cloud infrastructure that **scales effortlessly**.
+- ☁️ **AWS Hosting Solution**  
+  > Architected **scalable, secure infrastructure** with **EC2**, **S3**, **RDS**, and **Route 53**. Implemented **CI/CD pipelines** with **AWS CodePipeline** and **Elastic Load Balancing (ELB)** for **zero-downtime deployment**.  
+  > 🏅 *Top Team @ Hack A Cloud’25* — **Cloud-Native and multi cloud** solution with **Auto Scaling** for **cost-efficiency** and **high availability**.
 
 - 🎨 **Dynamic Portfolio Sites**  
   > **React + Animations + Snow Cursors + Parallax Effects**  
@@ -48,8 +46,8 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulk07&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulk07&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulk07&show_icons=true&theme=radical&hide_title=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulk07&layout=compact&theme=radical&hide_title=true" width="48%" />
 </p>
 
 ---
