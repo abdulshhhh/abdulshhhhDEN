@@ -53,6 +53,12 @@
 ---
 
 ## 🧠 **Certs & Accomplishments**
+## 🧠 Achievements
+
+- ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-brightgreen)  
+- ![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-ff6347)  
+- ![CI/CD Status](https://img.shields.io/badge/CI%2FCD-Passing-brightgreen)
+
 
 - 🏅 **AWS Certified Cloud Practitioner (CLF-C02)**
 - 💡 **Cloud Hosting Wizard @ Hack A Cloud 2025**
